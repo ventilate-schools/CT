@@ -16,6 +16,7 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
 ## CT School Ventilation News
 
+* [University of Connecticut Indoor Air Quality Initiative](https://indoorairquality.initiative.uconn.edu/project-overview/). The CLean Air Equity Response (CLEAR) Program trains people in how to make CR-boxes, also makes and donates some, including into Connecticut schools (part funded by Hayley's Hope & Michaela's Miracle MS Memorial Fund, and Balvi Filanthropic Fund)
 * [CT advances steps to improve indoor air quality in schools](https://www.ctpublic.org/news/2024-05-21/ct-improve-indoor-air-quality-in-schools-hvac-education) - CT Public: May 21, 2024
 * [CT approves $150 million for ventilation upgrades in public schools](https://www.ctinsider.com/politics/article/ct-schools-hvac-covid-funds-18555946.php) - CT insider: Dec 15, 2023
 * [Connecticut’s Mission to Improve Indoor Air Quality in Schools](https://sustainable-eng.com/connecticut-indoor-air-quality-statute/) - Sustainable Eng Solutions: Apr 3, 2023
